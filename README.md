@@ -13,3 +13,7 @@ Min Pyae Thway : Steps 6, 7, 8, and Bonus B; implemented `attempts_until_clean()
 `mp1.ipynb` contains the complete analysis, simulations, figures, and interpretations.
 
 `mp1lib.py` contains the required reusable functions used by the notebook.
+
+## Runtime
+
+Total runtime from a clean kernel: approximately 69 seconds.
